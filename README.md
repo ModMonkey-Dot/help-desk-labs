@@ -1,1 +1,1 @@
-# help-desk-labs
+# help-desk-home-lab
