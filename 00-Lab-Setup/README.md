@@ -39,3 +39,19 @@ I shut down the VM and changed its virtual DVD drive to None to disconnect the i
 With the VM shut down, I created a checkpoint and named it Clean-Baseline. I saved a screenshot in the Screenshots folder inside my setup notes folder and named it Clean-Baseline Checkpoint.
 
 I tested restoring the Clean-Baseline checkpoint, and it worked. The VM is now ready for help desk projects. Before restoring it after each project, I will save my notes and screenshots outside the VM so I can keep them for my GitHub portfolio.
+
+Screenshots/
+<details>
+<summary>Click to view screenshots</summary>
+
+![System About](01-System-About.png)
+
+![Windows Update](02-Windows-Update-Complete.png)
+
+![Memory verified](03-Fixed-8GB-Memory-Verified.png)
+
+![Windows Security](04-Windows-Security-Status.png)
+
+![Clean baseline checkpoint](05-Clean-Baseline-Checkpoint.png)
+
+</details>
